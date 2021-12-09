@@ -1,0 +1,62 @@
+
+
+header {
+    background-color: hsla(196, 52%, 63%, 1);
+    text-align: center;
+    border-style: solid;
+    border-top-width: 8px;
+    border-bottom-width: 4px;
+    border-left-width: 8px;
+    border-right-width: 8px;
+    border-radius: round;
+}
+
+nav {   
+    border-style: solid;
+    border-top-width: 4px;
+    border-bottom-width: 4px;
+    border-left-width: 8px;
+    border-right-width: 8px;
+}
+
+h1 {border:2px black}
+
+
+body {
+    background-color:hsla(196, 52%, 63%, 1);
+    text-align: center;
+}
+
+main {
+    border-style: solid;
+    border-top-width: 4px;
+    border-bottom-width: 4px;
+    border-left-width: 8px;
+    border-right-width: 8px;
+}
+
+
+
+footer {
+    text-align: center;
+    border-style: solid;
+    border-top-width: 4px;
+    border-bottom-width: 8px;
+    border-left-width: 8px;
+    border-right-width: 8px;
+}
+
+a {color: black;}
+
+
+
+
+.sizeIncrease {font-size: 20px;}
+
+
+
+
+
+
+
+
